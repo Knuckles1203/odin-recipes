@@ -12,5 +12,10 @@
 div{
     padding:30px;
     margin:8px;
-    background-color:aqua
+    background-color:aqua;
+}
+
+.introduction{
+    height:400px;
+    width:500px;
 }
